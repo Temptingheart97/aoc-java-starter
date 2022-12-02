@@ -11,8 +11,8 @@ Java for solving [Advent of Code](https://adventofcode.com) puzzles.
 
 ## Where to put things
 
-1. Create a class in `src/main/java/org/tot` for each day's solution, i.e. `Day1.java`.
-2. Create a corresponding test class in `src/test/java/org/tot`, i.e. `Day1Test.java`.
+1. Create a class in `src/main/java/org/tot/aoc` for each day's solution, i.e. `Day1.java`.
+2. Create a corresponding test class in `src/test/java/org/tot/aoc`, i.e. `Day1Test.java`.
 3. Add any input files to `src/test/resources`.
 
 ## Running the puzzles
